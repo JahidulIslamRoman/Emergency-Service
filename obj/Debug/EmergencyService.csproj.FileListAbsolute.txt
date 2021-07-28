@@ -1,0 +1,12 @@
+D:\Study\Khuko\C#\EmergencyService\bin\Debug\EmergencyService.exe.config
+D:\Study\Khuko\C#\EmergencyService\bin\Debug\EmergencyService.exe
+D:\Study\Khuko\C#\EmergencyService\bin\Debug\EmergencyService.pdb
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.csproj.AssemblyReference.cache
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.Login.resources
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.Properties.Resources.resources
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.csproj.GenerateResource.cache
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.csproj.CoreCompileInputs.cache
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.exe
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.pdb
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.SignUp.resources
+D:\Study\Khuko\C#\EmergencyService\obj\Debug\EmergencyService.MainForm.resources
